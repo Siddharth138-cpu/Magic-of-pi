@@ -26,4 +26,4 @@ Expect:
 ## Getting Started  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/<your-username>/Magic-of-Pi.git
+   git clone https://github.com/Siddharth138-cpu/Magic-of-pi
